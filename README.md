@@ -12,12 +12,7 @@
   <a href="https://gitter.im/mergeable-bot/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
     <img src="https://badges.gitter.im/mergeable-bot/Lobby.svg">
   </a>  
-  <img src="https://github.com/mergeability/mergeable/workflows/CI/badge.svg">
-  <a href="https://codecov.io/gh/mergeability/mergeable">
-    <img src="https://codecov.io/gh/mergeability/mergeable/branch/master/graph/badge.svg">
-  </a>
-</p>
-
+  <img src="https://github.
 more test
 
 > 🤖 **Mergeable** helps automate your team's GitHub workflow without a single line of code.
